@@ -11,7 +11,13 @@ The following are tools for creating an automated development environment:
 
 # Building
 
-## Linux
+## Linux(Bionic)
+
+Install packages
+
+```
+sudo apt install libhidapi-dev
+```
 
 Create a build directory.
 
